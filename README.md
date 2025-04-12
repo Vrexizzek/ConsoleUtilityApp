@@ -1,6 +1,3 @@
-Sure! Here's the content for your `README.md` file:
-
-```markdown
 # ConsoleUtilityApp
 
 A Python console application offering user management, system tools, port scanning, NFC data interaction, and fun commands. It supports admin mode for creating/deleting users and viewing the user list.
@@ -90,6 +87,3 @@ A Python console application offering user management, system tools, port scanni
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to copy and paste this into your `README.md` file!
