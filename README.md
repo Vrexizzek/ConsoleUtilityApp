@@ -35,7 +35,7 @@ A Python console application offering user management, system tools, port scanni
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ConsoleUtilityApp.git
+   git clone https://github.com/Vrexizzek/ConsoleUtilityApp.git
    ```
 
 2. Navigate to the project directory:
