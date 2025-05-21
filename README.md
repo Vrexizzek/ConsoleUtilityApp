@@ -55,7 +55,7 @@ A Python console application offering user management, system tools, port scanni
    python main.py
    ```
 
-2. You will be prompted for a login. Use the login credentials you have created, for the first time its:
+2. You will be prompted for a login. Use the login credentials you have created, for the first time it is:
    - Login: admin
    - Password: admin123
 
